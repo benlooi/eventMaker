@@ -1,1 +1,11 @@
 /**** your customised css file.**/
+body {
+	height:1100px;
+	width:100%;
+}
+.welcome-backdrop {
+	background-image: url('images/eventMaker.jpg');
+	background-size: 1000px 1000px;
+	background-repeat: no-repeat;
+
+}

@@ -1,4 +1,4 @@
-angular.module('eventMaker',['ui-router','controllers'])
+angular.module('eventApp',['ui.router','controllers'])
 
 .config(function($stateProvider,$urlRouterProvider){
 
