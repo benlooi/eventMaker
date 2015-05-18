@@ -1,11 +1,18 @@
 /**** your customised css file.**/
 body {
-	height:1100px;
+	height:100%;
 	width:100%;
 }
 .welcome-backdrop {
+	height:1000px;
+	width:100%;
 	background-image: url('images/eventMaker.jpg');
 	background-size: 1000px 1000px;
 	background-repeat: no-repeat;
 
+}
+
+.ui.form {
+
+	background-color: transparent;
 }
